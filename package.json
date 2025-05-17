@@ -1,0 +1,19 @@
+{
+  "name": "video-call",
+  "version": "1.0.0",
+  "main": "vc.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "react-firebase-hooks": "^5.1.1",
+    "socket.io": "^4.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
